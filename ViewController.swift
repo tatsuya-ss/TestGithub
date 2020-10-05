@@ -41,13 +41,9 @@ class ViewController: UIViewController {
         
         sumLabel.text = String(sum)
             
-        }
+    }
             
-            
-            
-            
-           
-        }
+}
         
         
     
